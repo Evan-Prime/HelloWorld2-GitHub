@@ -16,6 +16,9 @@ namespace HelloWorld2_GitHub
             Console.WriteLine("| Hello World! |");
             Console.WriteLine("+----+    +----+");
             Console.WriteLine("     |    |     ");
+            Console.WriteLine("     |    |     ");
+            Console.WriteLine("     |    |     ");
+            Console.WriteLine("     |    |     ");
             Console.WriteLine("     +----+     ");
             Console.WriteLine("");
             Console.WriteLine("By: Evan MacDonald");
